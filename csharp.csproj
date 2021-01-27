@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="sqlite-net-pcl" Version="1.8.0-beta" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DotNetEnv">
+      <HintPath>libs\DotNetEnv.dll</HintPath>
+    </Reference>
+    <Reference Include="Sprache">
+      <HintPath>libs\Sprache.dll</HintPath>
+    </Reference>
+    <Reference Include="CsvHelper">
+      <HintPath>libs\CsvHelper.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

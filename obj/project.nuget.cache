@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "L11/DwrTv7J82p/WOhkF8gYsqiBv3NMJuznIqXTzzArz5pzYMgiD0tJZVltzlj/yXpiRFk8I7xyXClctYzaaXQ==",
+  "success": true,
+  "projectFilePath": "/home/khoadang_1989_1/csharp-thread/csharp.csproj",
+  "expectedPackageFiles": [
+    "/home/khoadang_1989_1/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/khoadang_1989_1/.nuget/packages/sqlite-net-pcl/1.8.0-beta/sqlite-net-pcl.1.8.0-beta.nupkg.sha512",
+    "/home/khoadang_1989_1/.nuget/packages/sqlitepclraw.bundle_green/2.0.4/sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "/home/khoadang_1989_1/.nuget/packages/sqlitepclraw.core/2.0.4/sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "/home/khoadang_1989_1/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.4/sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "/home/khoadang_1989_1/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.4/sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "/home/khoadang_1989_1/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
